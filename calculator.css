@@ -1,0 +1,23 @@
+.calculationForm {
+    max-width: 200px;
+    margin: auto;
+    background:blue;
+    padding: 10px;
+    border: solid silver;
+}
+
+.calculationButton {
+    background-color: green;
+    color:black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Showcalculation{
+height: 30px;
+width: 130px;
+border-block-end: solid silver;
+border: solid silver;
+
+}
+
